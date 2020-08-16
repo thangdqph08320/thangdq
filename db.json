@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": "guux55b54",
+      "name": "name 2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-35866.appspot.com/o/images%2F1_12.png?alt=media&token=1b738fb6-ab34-487a-9317-3a6b2e2ce89c",
+      "price": "1234",
+      "description": "Use the multi-byte CSS sensor, then you can calculate the neural panel!"
+    },
+    {
+      "id": "0u7hhpsri",
+      "name": "name 1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-35866.appspot.com/o/images%2F1_03.png?alt=media&token=bf954e96-59e7-4df6-ae90-af77966d6621",
+      "price": "407.00",
+      "description": "một sản phẩm hot nhất trong năm nay"
+    },
+    {
+      "id": "5q6qkmwpj",
+      "name": "Quyết Thắng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-35866.appspot.com/o/images%2F1.png?alt=media&token=2b91ebba-81f0-42af-bd9f-ed77d008e604",
+      "price": "123123",
+      "description": "ádsadsad"
+    },
+    {
+      "id": "5vhrxmwpq",
+      "name": "Marianne Bins",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-35866.appspot.com/o/images%2F1540950383-368-trinh-lang-apple-macbook-air-2018-man-hinh-retina-sieu-chat-gsmarena_003-1540942459-width660height582.jpg?alt=media&token=ab049059-a1f2-49da-9c0d-d8a3471be8f2",
+      "cate_id": "3",
+      "price": "555.090",
+      "description": "số 1 việt nam"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Intelligent",
+      "image": "http://lorempixel.com/640/480/food"
+    },
+    {
+      "id": "spcisw8tv",
+      "name": "Quyết Thắng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/project-35866.appspot.com/o/images%2F1541387334-749-hot-iphone-xs-iphone-xs-max-va-iphone-xr-chinh-hang-da-ve-nuoc-apple-event-091218-iphone-x-1541384178-width660height371.jpg?alt=media&token=2d009aa5-0fec-41f6-823e-db913e9bacf0"
+    }
+  ]
+}
